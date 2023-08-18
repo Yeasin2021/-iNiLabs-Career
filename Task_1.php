@@ -1,4 +1,10 @@
 <?php
+/*
+|Task 1: Class Inheritance**
+|Create classes to represent geometric shapes, including circles and rectangles. 
+|Implement methods for area calculation. You can use the provided example code as a reference.
+|
+| */
 class Shape {
     public function calculateArea() {
         // This method will be overridden in subclasses
