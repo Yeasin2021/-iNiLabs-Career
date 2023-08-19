@@ -1,0 +1,3 @@
+First import the database and set the database name
+php artisan serve
+npm ran watch
